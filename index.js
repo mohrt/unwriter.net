@@ -75,7 +75,7 @@ var vm = new Vue({
         twitter_url: 'https://twitter.com/_unwriter/status/1250778522228002816'
       },
       {
-        date: 'Apr 8, 2020',
+        date: 'Apr 7, 2020',
         title: 'Toychain',
         desc: 'Distributed version control system for Bitcoin.',
         image_url: 'https://toychain.network/toychain.png',
