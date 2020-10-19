@@ -80,7 +80,7 @@ var vm = new Vue({
         desc: 'Distributed version control system for Bitcoin.',
         image_url: 'https://toychain.network/toychain.png',
         url: 'https://toychain.network/',
-        twitter_url: 'https://twitter.com/_unwriter/status/1247904981006422016?s=20'
+        twitter_url: 'https://twitter.com/_unwriter/status/1247524238853955591'
       },
       {
         date: 'Mar 10, 2020',
